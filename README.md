@@ -43,7 +43,7 @@ Some things to keep in mind:
 
 **YOUR NOTES**
 ```
-
+create an object out of form values and pass it to the renderPlayer function
 ```
 
 ## Deliverable 3: Like Button
